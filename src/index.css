@@ -1,0 +1,19 @@
+.Square{
+    height: 4rem;
+    width: 4rem;
+    margin: 0px 0px;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.Row{
+    margin: auto;
+    display: flex;
+    border: none;
+    justify-content: center;
+}
+
+.status{
+    font-size: xx-large;
+    font-weight: bold;
+}
